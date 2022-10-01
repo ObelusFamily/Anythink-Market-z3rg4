@@ -10,6 +10,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
->Install docker (verify docker is ready by running the following commands in your terminal: docker -v and docker-compose -v)
->Check if docker is working properly and should connect to the backend. Test this by pointing your browser to http://localhost:3000/api/ping
->check the frontend and make sure it’s connected to the backend. If everything is working properly, you’ll be able to create a new user on http://localhost:3001/register
+- Install docker (verify docker is ready by running the following commands in your terminal: docker -v and docker-compose -v)
+
+- Check if docker is working properly and should connect to the backend. Test this by pointing your browser to http://localhost:3000/api/ping
+
+- check the frontend and make sure it’s connected to the backend. If everything is working properly, you’ll be able to create a new user on http://localhost:3001/register
